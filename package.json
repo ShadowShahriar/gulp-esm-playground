@@ -1,0 +1,26 @@
+{
+	"name": "gulp-esm-playground",
+	"version": "0.0.1",
+	"description": "Learning to use ESM with Gulp",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "gulp test --verbose"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ShadowShahriar/esm-playground.git"
+	},
+	"keywords": [
+		"esm"
+	],
+	"author": "S. Shahriar <shadowshahriar.dev@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ShadowShahriar/esm-playground/issues"
+	},
+	"homepage": "https://github.com/ShadowShahriar/esm-playground#readme",
+	"devDependencies": {
+		"gulp": "^4.0.2"
+	}
+}
